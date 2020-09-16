@@ -10,7 +10,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/console_86327.ico" />
+        <link rel="icon" href="/Hektakun-Pokemon-063-Abra.ico" />
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"
