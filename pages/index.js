@@ -23,15 +23,15 @@ export default function Home({ allPostsData }) {
         <p>Programming experience in C, C++, Python, JavaScript, Verilog, and Assembly on ARM Cortex M4 Microprocessors, as well as hardware verification and validation with FPGA devices.</p>
         <p>
           Connect with me on{' '}
-          <a href="https://www.linkedin.com/in/KevinGomezEngr/">LinkedIn!</a>.)
+          <a href="https://www.linkedin.com/in/KevinGomezEngr/">LinkedIn!</a>
         </p>
         <p>
           Check out my other projects on{' '}
-          <a href="https://github.com/KevinG182">GitHub!</a>.)
+          <a href="https://github.com/KevinG182">GitHub!</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Projects</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>

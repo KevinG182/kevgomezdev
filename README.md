@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Portfolio for Kevin Gomez
+
+Built from starter template [Learn Next.js](https://nextjs.org/learn).

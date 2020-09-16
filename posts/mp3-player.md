@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'Real-Time OS MP3 Player – CMPE 146: Real-Time Embedded Systems Project '
 date: '2020-01-01'
 ---
 

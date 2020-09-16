@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'CORAL-C – Department of Computer Engineering Senior Capstone Project'
 date: '2020-01-02'
 ---
 
