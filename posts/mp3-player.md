@@ -1,11 +1,14 @@
 ---
-title: 'Real-Time OS MP3 Player – CMPE 146: Real-Time Embedded Systems Project '
-date: '2020-01-01'
+title: 'CMPE 146: Real-Time Embedded Systems MP3 Player '
+date: '2019-12-08'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+As part of our course, **CMPE 146: Real-Time Embedded Systems**, students worked in teams of 3 to build an MP3 Player in a Real-Time Operationg System enviornment. For this course we used a custom microcontroller from NXP and needed to develop all the necessary drivers to include all of our required functions.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+Roles Included:
+- Developed a working MP3 Player using an LPC408x/407x, a custom microcontroller utilizing an ARM Cortex-M4 CPU
+- Designed the software in the C programming language and built using the SCons tool from a Linux terminal
+- Implement a real-time operating system embedded system in FreeRTOS using tasks, queues, and semaphores
+- Reviewed several technical datasheets and user manuals to properly implement various device drivers for hardware peripherals such as GPIO, ADC, integrate an MP3 decoder through the SPI bus, and the LCD through UART communication
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+This was a very **challenging** but largely **rewarding** course! Our team spent several hours working together and collaborating in locating important sections from the datasheets and hours of debugging our system, and in the end we were able to complete our product!
