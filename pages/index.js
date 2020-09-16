@@ -22,8 +22,12 @@ export default function Home({ allPostsData }) {
         <p>Graduating Senior in Computer Engineering at San Jose State University with a certificate in Cybersecurity.</p>
         <p>Programming experience in C, C++, Python, JavaScript, Verilog, and Assembly on ARM Cortex M4 Microprocessors, as well as hardware verification and validation with FPGA devices.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          Connect with me on{' '}
+          <a href="https://www.linkedin.com/in/KevinGomezEngr/">LinkedIn!</a>.)
+        </p>
+        <p>
+          Check out my other projects on{' '}
+          <a href="https://github.com/KevinG182">GitHub!</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
