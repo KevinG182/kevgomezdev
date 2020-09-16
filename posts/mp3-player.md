@@ -2,8 +2,11 @@
 title: 'CMPE 146: Real-Time Embedded Systems MP3 Player '
 date: '2019-12-08'
 ---
+![MP3 Player](/images/mp3-circuits.jpg)
 
 As part of our course, **CMPE 146: Real-Time Embedded Systems**, students worked in teams of 3 to build an MP3 Player in a Real-Time Operationg System enviornment. For this course we used a custom microcontroller from NXP and needed to develop all the necessary drivers to include all of our required functions.
+
+Watch a Demo Video [HERE](https://youtu.be/Qsm7yDNld1Y)!
 
 Roles Included:
 - Developed a working MP3 Player using an LPC408x/407x, a custom microcontroller utilizing an ARM Cortex-M4 CPU

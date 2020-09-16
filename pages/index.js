@@ -27,10 +27,6 @@ export default function Home({ allPostsData }) {
           Connect with me on{' '}
           <a href="https://www.linkedin.com/in/KevinGomezEngr/">LinkedIn!</a>
         </p>
-        <p>
-          Check out my other projects on{' '}
-          <a href="https://github.com/KevinG182">GitHub!</a>
-        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Projects</h2>
@@ -47,6 +43,12 @@ export default function Home({ allPostsData }) {
               </li>
           ))}
         </ul>
+      </section>
+      <section className={utilStyles.headingMd}>
+        <p>
+          Check out my open sources on{' '}
+          <a href="https://github.com/KevinG182/kevgomezdev">GitHub!</a>
+        </p>
       </section>
     </Layout>
   )
