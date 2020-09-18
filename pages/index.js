@@ -68,7 +68,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          <a href="https://manosaccelerator.com/">Marketing Intern</a><br />
+          <a>Marketing Intern</a><br />
           Manos Accelerator, LLC<br />
           <small className={utilStyles.lightText}>
           Fall 2016 – Spring 2017
