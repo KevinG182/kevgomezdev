@@ -83,21 +83,6 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          <a href="https://www.parsons.com/">Transportation Solution Intern</a><br />
-          Parsons Corporation<br />
-          <small className={utilStyles.lightText}>
-          Summer 2015
-          </small>
-          <small>
-          <ul>
-            <li>Interned under the Parsons Transportation Solutions Group team contracted for designing the Wilshire and La Brea underground station for the <b>Los Angeles Metro Purple Line Extension Project</b></li>
-            <li>Reviewed floor plans and <b>CAD models</b> for the Metro Project and participated in onsite meetings</li>
-            <li>Presented results of the internship program to the <b>Los Angeles Area Chamber of Commerce counsel</b></li>
-          </ul>
-          </small>
-        </p>
-
-        <p>
           View current{' '}
           <a href="https://drive.google.com/file/d/1VHmUIOtgIw6wsjBkegu5F0DFti3cvftX/view?usp=sharing">resume</a>
           {' '}or send me an{' '}
