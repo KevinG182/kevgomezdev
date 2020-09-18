@@ -83,7 +83,7 @@ export default function Home({ allPostsData }) {
         </p>
         
         <p>
-          <a href="https://www.parsons.com/">Transportation Solution Intern</a><br />
+          <a>Transportation Solution Intern</a><br />
           Parsons Corporation<br />
           <small className={utilStyles.lightText}>
           Summer 2015
