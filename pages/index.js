@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p><b>Computer Engineering</b> Student at San Jose State University with an emphasis in <b>Cybersecurity</b> and <b>Embedded Systems.</b></p>
+        <p><b>Computer Engineering</b> Student at San Jose State University with an interest in <b>Cybersecurity</b> and <b>Software Development.</b></p>
         <p>
           Connect on{' '}
           <a href="https://www.linkedin.com/in/KevinGomezEngr/">LinkedIn!</a>
