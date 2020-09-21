@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Projects</h2>
+        <h2 className={utilStyles.headingLg}>PROJECTS</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, group }) => (
             <li className={utilStyles.listItem} key={id}>
@@ -47,12 +47,10 @@ export default function Home({ allPostsData }) {
         <p>
           Check out my <b>sources</b> on{' '}
           <a href="https://github.com/KevinG182/kevgomezdev">GitHub!</a>
-
         </p>
       </section>
       <section className={utilStyles.headingMd}>
-        <h2 className={utilStyles.headingLg}>Experience</h2>
-
+        <h2 className={utilStyles.headingLg}>EXPERIENCE</h2>
         <p>
           <a href="https://engineering.sjsu.edu/student-success/get-involved/student-organizations/engineering-ambassador-program">Engineering Ambassador Program Mentor</a><br />
           Charles W. Davidson College of Engineering<br />
