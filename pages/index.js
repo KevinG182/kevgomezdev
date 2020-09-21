@@ -53,7 +53,7 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg}>EXPERIENCE</h2>
 
         <p>
-          <a>SJSU Student Researcher</a><br />
+          <b>SJSU Student Researcher</b><br />
           Ronald E. McNair Scholars Program<br />
           <small className={utilStyles.lightText}>
           Summer 2018 – Spring 2020
@@ -79,7 +79,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          <a href="https://engineering.sjsu.edu/student-success/get-involved/student-organizations/engineering-ambassador-program">Engineering Ambassador Program Mentor</a><br />
+          <b>Engineering Ambassador Program Mentor</b><br />
           Charles W. Davidson College of Engineering<br />
           <small className={utilStyles.lightText}>
           Fall 2017 – Spring 2018
@@ -93,7 +93,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          <a>Marketing Intern</a><br />
+          <b>Marketing Intern</b><br />
           Manos Accelerator, LLC<br />
           <small className={utilStyles.lightText}>
           Fall 2016 – Spring 2017
@@ -108,7 +108,7 @@ export default function Home({ allPostsData }) {
         </p>
         
         <p>
-          <a>Transportation Solution Intern</a><br />
+          <b>Transportation Solution Intern</b><br />
           Parsons Corporation<br />
           <small className={utilStyles.lightText}>
           Summer 2015
