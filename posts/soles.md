@@ -1,17 +1,17 @@
 ---
-title: 'Secretary Marketing Material'
+title: 'Secretary + Treasurer'
 group: 'Society of Latino Engineers and Scientists'
 date: '2020-05-25'
 ---
 ![SOLES SE Team](/images/soles-se.jpeg)
 
-SOLES is San Jose State University's Student Chapter for both the Society of Hispanic Professional Engineers **(SHPE)** and **MAES**- Latinos in Tech. I have been a member and on the board in different positions for about 3 years. This time includes a year as a **Science Extravaganza Co-Chair** and a year as **Secretary**.
+SOLES is San Jose State University's Student Chapter for both the Society of Hispanic Professional Engineers **(SHPE)** and **MAES**- Latinos in Tech. I have been a member and on the board in different positions for about 3 years. This time includes a year as a **Science Extravaganza Co-Chair / Treasurer** and a year as the **SOLES Secretary**.
 
-As part of my roles with the **Society of Latino Engineers and Scientists** I would constantly promote the organizations and deploy strategies to increase our membership and during the time I was on the board, we saw an increase of over 100 new members! This was done through recruitment and networking events, but as Secretary I had the additional roles of crafting a **weekly newsletter** to keep our members interested and **design posters and short films** to attract new interests. 
+As part of my roles with the **Society of Latino Engineers and Scientists** I would constantly promote the organization and deploy strategies to increase our membership and during the time I was on the board, we saw an **increase of over 100 students in peak membership!** This was done through recruitment and networking events, but as Secretary I had the additional roles of crafting a **weekly newsletter** to keep our members interested and **design posters and short films** to attract new interests. 
 
 Roles Included:
 - Created sponsorship proposals that **increased our yearly budget by $2700,** an estimated 35% growth
-- **Quintupled membership** to 138 members over 2 years through developing recruitment strategies
+- **Quintupled membership** to 138 members over 3 years through developing recruitment strategies
 - Engaged over 300 students at Science Extravaganza 2019 and 2020 and hosted SJSU’s largest student organized event by presenting to 7 local middle schools **to encourage thousands of young students to pursue higher education in STEM**
 
 SOLES has been my **favorite organization** on the SJSU campus and assisting in **growing the community** has been a great experience!
