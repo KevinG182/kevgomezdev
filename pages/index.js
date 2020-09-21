@@ -51,6 +51,33 @@ export default function Home({ allPostsData }) {
       </section>
       <section className={utilStyles.headingMd}>
         <h2 className={utilStyles.headingLg}>EXPERIENCE</h2>
+
+        <p>
+          <a>SJSU Student Researcher</a><br />
+          Ronald E. McNair Scholars Program<br />
+          <small className={utilStyles.lightText}>
+          Summer 2018 – Spring 2020
+          </small>
+          <small>
+            <ul>
+              <li><b>Machine Learning Algorithm for Risk</b></li>
+                <ul>
+                  <li>Argued the <b>most effective</b> algorithms for evaluating risk of Type-2 diabetes in adults through a literature review</li>
+                  <li>Evaluated <b>supervised and unsupervised</b> machine learning algorithms such as types of <b>decision trees in python</b></li>
+                  <li><em>Presented Engineering and Science Symposium - SHPE 2019</em></li>
+                  <li><em>Presented at 40th Central California Research Symposium – 2019</em></li>
+                </ul>
+              <li><b>Hardware Lead for Artificial Gravity Centrifuge</b></li>
+                <ul>
+                  <li>Project within the Department of Aerospace Engineering</li>
+                  <li>Simplified the design by introducing the use of a <b>multiplexer</b> to easily read from several accelerometer modules</li>
+                  <li><b>Improved latency</b> to the console by researching different methods of <b>wireless communication</b> with the centrifuge</li>
+                  <li><em>In Progress for Publishing and Presentation</em></li>
+                </ul>
+            </ul>
+          </small>
+        </p>
+
         <p>
           <a href="https://engineering.sjsu.edu/student-success/get-involved/student-organizations/engineering-ambassador-program">Engineering Ambassador Program Mentor</a><br />
           Charles W. Davidson College of Engineering<br />

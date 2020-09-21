@@ -1,5 +1,5 @@
 ---
-title: 'Secretary + Treasurer'
+title: 'Secretary + SE Co-Chair / Treasurer'
 group: 'Society of Latino Engineers and Scientists'
 date: '2020-05-25'
 ---
@@ -12,7 +12,8 @@ As part of my roles with the **Society of Latino Engineers and Scientists** I wo
 Roles Included:
 - Created sponsorship proposals that **increased our yearly budget by $2700,** an estimated 35% growth
 - **Quintupled membership** to 138 members over 3 years through developing recruitment strategies
-- Engaged over 300 students at Science Extravaganza 2019 and 2020 and hosted SJSU’s largest student organized event by presenting to 7 local middle schools **to encourage thousands of young students to pursue higher education in STEM**
+- Engaged **over 300 students** at each Science Extravaganza 2019 and 2020 and hosted SJSU’s largest student organized event by presenting to 7 local middle schools **to encourage thousands of young students to pursue higher education** in Science, Technology, Engineering and Math
+- During this time, helped **expand the scope of resources** by being a **co-founder** and function as **Treasurer** to **SJSU's new SACNAS Chapter** (Society for the Advancement of Chicanos/Hispanics and Native Americans in Science)
 
 SOLES has been my **favorite organization** on the SJSU campus and assisting in **growing the community** has been a great experience!
 
