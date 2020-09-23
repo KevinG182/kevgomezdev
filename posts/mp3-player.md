@@ -13,6 +13,6 @@ Roles Included:
 - Implement a **real-time operating system** in FreeRTOS using tasks, queues, and semaphores
 - Reviewed several technical **datasheets** and user manuals to properly implement various **device drivers** for **hardware peripherals** such as GPIO, ADC, integrate an MP3 decoder through the SPI bus, and the LCD through UART communication
 
-This was a very **challenging** but largely **rewarding** course! Our team spent several hours working together and collaborating in locating important sections from the datasheets and hours of debugging our system, and in the end we were able to complete our product!
+This was a very **challenging** but largely **rewarding** course! Our team spent several hours working together and collaborating in locating important sections from the datasheets and hours of **debugging** our system, and in the end we were able to complete our product!
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/Qsm7yDNld1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

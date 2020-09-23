@@ -13,13 +13,14 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/summer-icon.ico" />
         <meta
           name="description"
+          property="og:description"
           content="Developer Portfolio"
         />
         <meta
           property="og:image"
           content="https://www.kevgomez.dev/thumbnail.png"
         />
-        <meta name="og:title" content={siteTitle} />
+        <meta name="og:title" property="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <header className={styles.header}>

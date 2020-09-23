@@ -21,4 +21,4 @@ SOLES has been my **favorite organization** on the SJSU campus and assisting in 
 
 I have a passion for design and making short films, I am experienced with **Adobe's Creative Cloud Suite** of Products and included are two examples of my work. The **above link** is a short documentary of our teams journey attending the **SHPE National Convention** in Phoenix, AZ and below is a short parody of the intro to the **2005 show "The Office"** to promote our social events!
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/UsERILxaefM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/UsERILxaefM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

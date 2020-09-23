@@ -21,10 +21,21 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p><b>Computer Engineering</b> Student at San Jose State University with an interest in <b>Cybersecurity</b> and <b>Software Development.</b></p>
         <p>
-          Connect on{' '}
-          <a href="https://www.linkedin.com/in/KevinGomezEngr/">LinkedIn!</a>
+          <b>Computer Engineering</b> Student at San Jose State University with an interest in <b>Cybersecurity</b> and <b>Software Development.</b>
+          <br/>
+          <small className={utilStyles.lightText}>
+          Graduation: December 2020
+          </small>
+        </p>
+        <p>
+          Connect via{' '}
+          <a href="https://www.linkedin.com/in/KevinGomezEngr/" target="_blank" title="Connect with me!">LinkedIn!</a>
+          <br/>
+          View current{' '}
+          <a href="https://drive.google.com/file/d/1VHmUIOtgIw6wsjBkegu5F0DFti3cvftX/view?usp=sharing" target="_blank" title="Current Resume">resume</a>
+          {' '}or send me an{' '}
+          <a href="mailto:KevinGomezEngr@gmail.com">email!</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
@@ -122,12 +133,6 @@ export default function Home({ allPostsData }) {
           </small>
         </p>
 
-        <p>
-          View current{' '}
-          <a href="https://drive.google.com/file/d/1VHmUIOtgIw6wsjBkegu5F0DFti3cvftX/view?usp=sharing">resume</a>
-          {' '}or send me an{' '}
-          <a href="mailto:KevinGomezEngr@gmail.com">email!</a>
-        </p>
       </section>
     </Layout>
   )
