@@ -1,11 +1,11 @@
 ---
-title: 'MIPS Assembly Processor Implemented in FPGA'
+title: 'FPGA Implemented MIPS Assembly Processor'
 group: 'CMPE 140: Computer Architecture Design'
 date: '2020-05-14'
 ---
 ![BASYS](/images/basys-board.jpg)
 
-This project is part of **CMPE 140: Computer Architecture Design** course and has students collaborate in teams of 4 to design a MIPS assembly processor with a factorial accelerator interfaced with the GPIO module. The five-stage MIPS processor pipeline included fetch, decode, execute, memory and writeback stages.
+This project is part of the **CMPE 140: Computer Architecture Design** course and has students collaborate in teams of 4 to design a **MIPS assembly processor** with a factorial accelerator interfaced with the GPIO module. The five-stage MIPS processor pipeline included fetch, decode, execute, memory and writeback stages.
 
 ![Five Stage Pipeline MIPS Processor](/images/five-stage-pipeline.png)
 
