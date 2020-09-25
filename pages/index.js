@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          <b>Computer Engineering</b> Student at San Jose State University with an interest in <b>Cybersecurity</b> and <b>Software Development.</b>
+          <b>Computer Engineering</b> Student at San Jose State University with an interest in <b>Cybersecurity</b> and <b>Software Development</b>
           <br/>
           <small className={utilStyles.lightText}>
           Graduation: December 2020
@@ -71,7 +71,7 @@ export default function Home({ allPostsData }) {
           </small>
           <small>
             <ul>
-              <li><b>Machine Learning Algorithm for Risk</b></li>
+              <li><b>Machine Learning Algorithm for Evaluating Risk</b></li>
                 <ul>
                   <li>Argued the <b>most effective</b> algorithms for evaluating risk of Type-2 diabetes in adults through a literature review</li>
                   <li>Evaluated <b>supervised and unsupervised</b> machine learning algorithms such as types of <b>decision trees in python</b></li>
