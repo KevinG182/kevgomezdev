@@ -1,5 +1,5 @@
 ---
-title: 'Secretary + SE Co-Chair / Treasurer'
+title: 'Secretary + Marketing Material'
 group: 'Society of Latino Engineers and Scientists'
 date: '2020-05-25'
 ---
