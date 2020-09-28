@@ -1,11 +1,5 @@
 html {
-  
-  background: url(background.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-color: whitesmoke;
+  background-color: white;
 }
 
 body {
@@ -33,4 +27,13 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+header {
+  color: white;
+  background: url(background-header.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: 544px 364px;
 }
