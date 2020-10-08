@@ -64,7 +64,7 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg}>EXPERIENCE</h2>
 
         <p>
-          <b>SJSU Student Researcher</b><br />
+          <b>Undergraduate Researcher</b><br />
           Ronald E. McNair Scholars Program<br />
           <small className={utilStyles.lightText}>
           Summer 2018 – Spring 2020
